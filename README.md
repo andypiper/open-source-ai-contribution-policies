@@ -24,3 +24,5 @@ A list of policies by different open source projects about how to engage with AI
 ## Other references
 
 - [Xarray's CLAUDE.md file](https://github.com/pydata/xarray/blob/main/CLAUDE.md)
+- [Preparing JOSS for a generative AI future: From code to human creativity and design](https://blog.joss.theoj.org/2026/01/preparing-joss-for-a-generative-ai-future)
+- [Navigating LLMs in Open Source: pyOpenSci’s New Peer Review Policy](https://www.pyopensci.org/blog/generative-ai-peer-review-policy.html)
