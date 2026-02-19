@@ -30,3 +30,4 @@ A list of policies by different open source projects about how to engage with AI
 - [Navigating LLMs in Open Source: pyOpenSci’s New Peer Review Policy](https://www.pyopensci.org/blog/generative-ai-peer-review-policy.html)
 - [scikit-learn's AGENTS.md file](https://github.com/scikit-learn/scikit-learn/blob/main/AGENTS.md)
 - [agentic-oss-policy: Policy templates for protecting open source projects from autonomous AI agent abuse](https://github.com/guenp/agentic-oss-policy)
+- [llama.cpp AGENTS.md file](https://github.com/ggml-org/llama.cpp/blob/master/AGENTS.md#instructions-for-llamacpp)
