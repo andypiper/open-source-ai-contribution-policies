@@ -14,6 +14,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Zulip](https://zulip.com/): [AI use policy and guidelines](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
 - [Arrow](https://arrow.apache.org): [AI-generated code](https://arrow.apache.org/docs/dev/developers/overview.html#ai-generated-code)
 - [FastAPI](https://fastapi.tiangolo.com): [Automated Code and AI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
+- [Jellyfin](https://jellyfin.org/): [Jellyfin LLM/"AI" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
 
 ## Ongoing discussions
 
